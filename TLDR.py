@@ -30,6 +30,7 @@ def GET_newPodcastFiles():
 def GET_goodNewsTimestamps():
     ()
     #look through the video for something on the same date? OR with the same title????
+    #hmm well actually i guess directyl from the rss feed (because of intros, sponser messages? or random changes)
     
 
 
